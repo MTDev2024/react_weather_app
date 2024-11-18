@@ -33,6 +33,7 @@ main {
 main:hover {
   border-color: transparent; /* Gardez la bordure transparente */
   box-shadow: 0 0 0 5px rgba(0, 128, 255, 0.7); /* Simule une bordure colorée */
+  cursor: pointer;
 }
 
 
